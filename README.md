@@ -7,7 +7,12 @@ Extend functionality
 Simplify functionality
 
 Decorator Pattern :
-User to add functionality to an existing object without being obtrusive.
+More complete Inheritance
+Wraps an object
+Protects existing objects
+Allows Extended functionality
+
+Used to add functionality to an existing object without being obtrusive.
 Use newObject.prototype = Object.create(parentObject.prototype);
 
 

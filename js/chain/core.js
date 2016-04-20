@@ -14,7 +14,7 @@ define(function() {
         if(communication.type !== this.type) {
             this.nextHandler ? this.nextHandler.handleCommunication(communication) :
                 console.log('i cant handle request');
-            return
+            return;
         }
 
         this.handler(communication);

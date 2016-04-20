@@ -18,4 +18,6 @@ Use newObject.prototype = Object.create(parentObject.prototype);
 
 Facade Pattern:
 Used to provide a simplified interface to a complicated system
+Facade hides the chaos from us
+Simplifies the interface;
 Think about the facade of building. Example jQuery.

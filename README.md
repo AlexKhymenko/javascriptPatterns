@@ -21,3 +21,7 @@ Used to provide a simplified interface to a complicated system
 Facade hides the chaos from us
 Simplifies the interface;
 Think about the facade of building. Example jQuery.
+
+
+Difference between Facade and Decorator:
+Decorator adds functionality, Facade dont.

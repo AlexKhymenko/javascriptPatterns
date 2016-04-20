@@ -17,7 +17,7 @@ var singleton = function() {
     }
 };
 
-//To create singletoon you should use esither () in exports or add new
+//To create singletoon you should use either () in exports or add new
 
 // module.exports = singleton()
 module.exports = new  singleton;

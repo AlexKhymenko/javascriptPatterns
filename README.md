@@ -32,3 +32,17 @@ If our Tasks has a lor of not unique data
 Flyweight share data across objects
 Results in a smaller memory footprint
 But its only useful large number of objects
+
+
+Behavioral Design Patterns:
+Concerned with the assignment of responsibilities between objects and how the communicate;
+Help Object Cooperate
+Assign Clear Hierarchy
+Can encapsulate requests
+
+
+Observer Pattern:
+Allows a collection of objects to watch an object and be notified of changes;
+Allow Loosely coupled system
+One object is focal point
+Group of objects watch for changes
